@@ -1,0 +1,21 @@
+cout << "subtraction: "
+<<subtracton (num1,num2)<<endl;
+
+cout<< "multiplication: "
+<<multiplication(num1,num2) << endl;
+
+if (num2 != 0)
+{
+
+    cout << "Division"
+    <<division<num1,num2) <<endl;
+
+    cout << "modulus: ".
+    << modulus (num1,num2)<< endl;
+}
+else
+{
+    cout << "division: cannot divide by zero." <<endl;
+    cout << "Modulus: Cannot divide by zero." endl;
+    
+}
